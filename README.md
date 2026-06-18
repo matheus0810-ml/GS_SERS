@@ -113,18 +113,6 @@ python main.py
 
 O projeto utiliza apenas recursos nativos do Python e não exige instalação de bibliotecas externas.
 
-## Estrutura do repositório
-
-```text
-mission-energy-monitor/
-├── main.py
-├── README.md
-├── entrega.txt
-├── roteiro_video.md
-└── docs/
-    └── explicacao_tecnica.md
-```
-
 ## Exemplo de cenário normal
 
 ```text
@@ -150,13 +138,6 @@ Consumo: 1100 W
 ## Sustentabilidade
 
 A solução ajuda a identificar períodos de déficit energético e baixa participação de energia renovável. As decisões automáticas priorizam a preservação da bateria, a redução de cargas não essenciais e o melhor aproveitamento da geração solar.
-
-## Entrega
-
-A entrega da atividade deve conter:
-
-- repositório público no GitHub;
-- vídeo não listado no YouTube, com duração máxima de três minutos;
 - arquivo `entrega.txt` preenchido com os links finais.
 
 A narração do vídeo deve ser feita pelo próprio aluno.
