@@ -138,6 +138,3 @@ Consumo: 1100 W
 ## Sustentabilidade
 
 A solução ajuda a identificar períodos de déficit energético e baixa participação de energia renovável. As decisões automáticas priorizam a preservação da bateria, a redução de cargas não essenciais e o melhor aproveitamento da geração solar.
-- arquivo `entrega.txt` preenchido com os links finais.
-
-A narração do vídeo deve ser feita pelo próprio aluno.
